@@ -1,0 +1,7 @@
+echo "# HEART-ATTACK-PREDICTION" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Muthiah22/HEART-ATTACK-PREDICTION.git
+git push -u origin main
